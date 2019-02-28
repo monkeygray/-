@@ -20,7 +20,7 @@
     padding: 10px;
     background: #fff;
     overflow: scroll;
-    -webkit-overflow-scrolling: touch; /*ios 上增加弹性*/
+    -webkit-overflow-scrolling: touch; 
   }
   main>section{
     display: none;
